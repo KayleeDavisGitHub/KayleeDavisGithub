@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/R.png" />]
+[<img align="left" alt="R" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rstudio.com%2Fproducts%2Frstudio%2F&psig=AOvVaw2EsVBN8MCkbuFC78K1gQRK&ust=1629673159235000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCn7eCbw_ICFQAAAAAdAAAAABAN" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
@@ -28,8 +28,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="KyleDavisGithub's GitHub Stats" src="https://github-readme-stats.KyleDavisGithub.vercel.app/api?username=KyleDavisGithub&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleDavisGithub&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ />
 </details>
 
 
