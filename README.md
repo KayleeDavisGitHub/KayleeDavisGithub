@@ -1,10 +1,9 @@
 
-### Hi there, I'm Kyle Davis! 👋
+### Hi there, I'm Kyle! 👋
 
-- 😄 Pronouns: He & Him
-- 💬 Ask me about R or LaTeX programming
-- 🌱 I’m currently learning RShiny and advanced SQL
-- 🔭 I’m currently working on my graduate methods book and YouTube channel 
+- 💬 Ask me about R or LaTeX programming!
+- 🌱 I’m currently learning advanced SQL and advanced data methodology
+- 🔭 I’m currently working on my graduate methods book
 - ⚡ Fun fact: I love Asian/western food!
 
 ### Connect with me:
