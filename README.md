@@ -31,4 +31,5 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew
-[linkedin]: https://www.linkedin.com/in/kyledavisln/
+[linkedin]: https://www.linkedin.com/in/KayleeDavisIN
+
