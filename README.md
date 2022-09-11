@@ -29,6 +29,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayleeDavisGithub&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew
+[youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
 [linkedin]: https://www.linkedin.com/in/KayleeDavisIN
 
