@@ -1,9 +1,11 @@
 
 ### Hey there, I'm Kaylee! 👋
 
-- 💬 Ask me about R programming!
-- 🔭 I’m currently working on my graduate methods book and learning ML/AI
+- 📈 I’m currently working on my graduate methods book and learning ML/AI
 - ⚡ Fun fact: I love foreign languages, я учу русский!
+- ❤️ Looking for volunteer data science work
+
+- 💬 Ask me about anything [here](https://github.com/KayleeDavisGithub/KayleeDavisGithub/issues)
 
 ### Languages and Tools:
 
