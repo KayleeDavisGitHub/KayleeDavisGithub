@@ -2,15 +2,8 @@
 ### Hey there, I'm Kaylee! 👋
 
 - 💬 Ask me about R or LaTeX programming!
-- 🌱 I’m currently learning advanced SQL and advanced data methodology
-- 🔭 I’m currently working on my graduate methods book
+- 🔭 I’m currently working on my graduate methods book, and learning ML/AI
 - ⚡ Fun fact: I love foerign languages, я учу русский!
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 
 ### Languages and Tools:
 
@@ -22,11 +15,18 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/kayleedavisin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayleeDavisGithub&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/KayleeDavisGitHub">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 [youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
