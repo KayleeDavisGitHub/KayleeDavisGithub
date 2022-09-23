@@ -1,8 +1,8 @@
 
 ### Hey there, I'm Kaylee! 👋
 
-- 💬 Ask me about R or LaTeX programming!
-- 🔭 I’m currently working on my graduate methods book, and learning ML/AI
+- 💬 Ask me about R programming!
+- 🔭 I’m currently working on my graduate methods book and learning ML/AI
 - ⚡ Fun fact: I love foreign languages, я учу русский!
 
 ### Languages and Tools:
@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/KayleeDavisGitHub">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 
