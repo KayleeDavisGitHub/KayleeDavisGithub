@@ -3,7 +3,7 @@
 
 - 💬 Ask me about R or LaTeX programming!
 - 🔭 I’m currently working on my graduate methods book, and learning ML/AI
-- ⚡ Fun fact: I love foerign languages, я учу русский!
+- ⚡ Fun fact: I love foreign languages, я учу русский!
 
 ### Languages and Tools:
 
