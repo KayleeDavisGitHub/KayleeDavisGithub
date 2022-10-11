@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="center"><i>Languages and Databases ordered by proficiency (highest to lowest)</i><div/>
 
+
 <div align="center"><b>Languages</b><div/>
 
 <img alt="R" title="R" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -74,8 +75,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div align="center">
   <a href="https://github.com/KayleeDavisGitHub">
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=false&theme=omni&include_all_commits=true&count_private=true"/>
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=6&theme=omni"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 
