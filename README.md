@@ -1,7 +1,5 @@
 # Hey there, I'm Kaylee! 👋
 
-<a href="https://www.linkedin.com/in/kayleedavisin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -86,6 +84,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 📖 [Introduction to Data Science with R](https://github.com/KayleeDavisGitHub/Graduate_Methods_Handbook) - Book in Progress
 - More coming soon!
 
+</details>
+
+![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<a href="https://www.linkedin.com/in/kayleedavisin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 [youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
