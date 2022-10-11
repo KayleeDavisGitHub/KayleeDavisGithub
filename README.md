@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - 📈 I’m currently working on a book and ML/AI projects
 - 🥅 2023 Goals: 
   - [ ] 🤖 Learn Machine Learning/AI Devlopment in Python
-  - [ ] 💻 Become proficient with CSS for Customized Markdown Data Reports
+  - [ ] 🧡 Tutor, and do more Data Science for Good.
   - [ ] 🛸 Contribute more to Open Source projects
   - [ ] 📄 Create my own portfolio of analytic projects here on GitHub!
 - ⚡ Fun fact: I love foreign languages, я учу русский!
