@@ -71,13 +71,21 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <details>
   <summary>MY STATS</summary>  
 
----
-
 <div align="center">
   <a href="https://github.com/KayleeDavisGitHub">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=6&theme=dark"/>
 </div>
+
+
+</details>
+
+<details>
+  <summary>MY PORTFOLIO</summary>  
+
+- 📖 [Introduction to Data Science with R](https://github.com/KayleeDavisGitHub/Graduate_Methods_Handbook) - Book in Progress
+- More coming soon!
+
 
 
 [youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
