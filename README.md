@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <details>
   <summary>MY PORTFOLIO</summary>  
 
-- 📖 [Introduction to Data Science with R](https://github.com/KayleeDavisGitHub/Graduate_Methods_Handbook) - Book in Progress
+- 📖 [Introduction to Data Science with R](https://github.com/KayleeDavisGitHub/Graduate_Methods_Handbook/blob/master/Methods.Handbook.pdf) - Book in Progress
 - More coming soon!
 
 </details>
