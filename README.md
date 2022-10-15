@@ -1,16 +1,24 @@
 # Hey there, I'm Kaylee! 👋
 
+[<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
+[<img title="YouTube Tutorials" height=35px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/YouTube_social_red_squircle_%282017%29.svg/1024px-YouTube_social_red_squircle_%282017%29.svg.png" />][YouTube]
+[<img title="DataCamp Learning" height=35px src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" />][DataCamp]
+[<img title="Varsity Tutoring" height=35px src="https://i.vimeocdn.com/portrait/63434625_640x640" />][VarsityTutors]
+
+<!-- Not used 
+[<img title="StackOverflow" height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
+-->
+
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
 
-- 📈 I’m currently working on a book and ML/AI projects
+- 🌱 I’m currently working on learning NLP with Python and ML deployment with AWS Sagemaker
 - 🥅 2023 Goals: 
   - [ ] 🤖 Learn Machine Learning/AI Devlopment in Python
   - [ ] 🧡 Tutor, and do more Data Science for Good.
-  - [ ] 🛸 Contribute more to Open Source projects
-  - [ ] 📄 Create my own portfolio of analytic projects here on GitHub!
+  - [ ] 📈 Work on my portfolio of projects here on GitHub!
 - ⚡ Fun fact: I love foreign languages, я учу русский!
 - 💬 Ask me about anything, or start a project with me [here](https://github.com/KayleeDavisGithub/KayleeDavisGithub/issues)!
 
@@ -63,7 +71,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 
-
 </details>
 
 <details>
@@ -74,7 +81,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=6&theme=dark"/>
 </div>
-
 
 </details>
 
@@ -89,9 +95,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<a href="https://www.linkedin.com/in/kayleedavisin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-[youtube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
-[linkedin]: https://www.linkedin.com/in/KayleeDavisIN
-
+<!-- Socials links -->
+[Linkedin]: https://www.linkedin.com/in/KayleeDavisIN
+[YouTube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
+[DataCamp]: https://www.datacamp.com/profile/KayleeDavis
+[VarsityTutors]: https://www.varsitytutors.com/tutors/878785440
+[StackOverflow]: https://stackoverflow.com/users/9367791
