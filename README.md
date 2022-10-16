@@ -77,15 +77,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <summary>MY STATS</summary>  
 
 <p align="center">
-  <a href="https://github.com/developernaimul/github-readme-activity-graph"><img alt="Kaylee Davis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KayleeDavisGithub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/developernaimul/github-readme-activity-graph"><img alt="Kaylee Davis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KayleeDavisGithub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a><br />
+</p>
 
-<br/>
+<p align="center">
   <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" /></a>
-    <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
+    <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" /></a><br />
+</p>
 
+<p align="center">
   <a href="https://github.com/developernaimul/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaylee Davis' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KayleeDavisGithub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaylee Davis' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KayleeDavisGithub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a> 
 </p>
 
 </details>
