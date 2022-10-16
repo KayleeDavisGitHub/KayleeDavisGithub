@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 
 <p align="center">
-  <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" /></a>
+  <a href="https://github.com/KayleeDavisGitHub"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" /></a>
     <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" /></a><br />
 </p>
 
