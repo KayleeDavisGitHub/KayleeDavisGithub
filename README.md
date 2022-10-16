@@ -1,4 +1,4 @@
-# Hey there, I'm Kaylee! 👋
+# Hey there, I'm Kaylee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
 [<img title="YouTube Tutorials" height=35px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/YouTube_social_red_squircle_%282017%29.svg/1024px-YouTube_social_red_squircle_%282017%29.svg.png" />][YouTube]
@@ -76,11 +76,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <details>
   <summary>MY STATS</summary>  
 
-<div align="center">
-  <a href="https://github.com/KayleeDavisGitHub">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=6&theme=dark"/>
-</div>
+<p align="center">
+  <a href="https://github.com/developernaimul/github-readme-activity-graph"><img alt="Kaylee Davis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KayleeDavisGithub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+  <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" /></a>
+    <a href="https://github.com/KayleeDavisGitHub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayleeDavisGitHub&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+  <a href="https://github.com/developernaimul/github-readme-streak-stats">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaylee Davis' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KayleeDavisGithub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> 
+</p>
 
 </details>
 
