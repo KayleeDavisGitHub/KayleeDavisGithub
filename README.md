@@ -1,11 +1,5 @@
 # Hey there, I'm Kaylee! 👋
 
-<p align="center">
-<a title="LinkedIn" target="_blank" rel="noopener" href="https://www.linkedin.com/in/KayleeDavisIN"><img width="71" alt="linkedin" src="https://user-images.githubusercontent.com/17025808/109658512-f6a7ba00-7b66-11eb-871b-818ba7cc1963.png"></a>
-<a title="YouTube" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1"><img width="65" alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/YouTube_social_dark_squircle_%282017%29.svg/120px-YouTube_social_dark_squircle_%282017%29.svg.png"></a>
-<a title="E-mail" target="_blank" rel="noopener" href="mailto:MailKayleeDavis@gmail.com?body=Hey%20Kaylee,%0D%0A%0D%0A"><img width="71" alt="email" src="https://user-images.githubusercontent.com/17025808/109658645-1f2fb400-7b67-11eb-861c-0d7c5debc8af.png"></a>
-</p>
-
 <!-- Not used 
 [<img title="StackOverflow" height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
 [<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
@@ -23,7 +17,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   - [ ] 🧡 Tutor, and do more Data Science for Good.
   - [ ] 📈 Work on my portfolio of projects here on GitHub!
 - ⚡ Fun fact: I love foreign languages, я учу русский!
-- 💬 Ask me about anything, or start a project with me [here](https://github.com/KayleeDavisGithub/KayleeDavisGithub/issues)!
+
+<a title="LinkedIn" target="_blank" rel="noopener" href="https://www.linkedin.com/in/KayleeDavisIN"><img width="71" alt="linkedin" src="https://user-images.githubusercontent.com/17025808/109658512-f6a7ba00-7b66-11eb-871b-818ba7cc1963.png"></a>
+<a title="YouTube" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1"><img width="63" height="63" alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/YouTube_social_dark_squircle_%282017%29.svg/120px-YouTube_social_dark_squircle_%282017%29.svg.png"></a>
+<a title="E-mail" target="_blank" rel="noopener" href="mailto:MailKayleeDavis@gmail.com?body=Hey%20Kaylee,%0D%0A%0D%0A"><img width="71" alt="email" src="https://user-images.githubusercontent.com/17025808/109658645-1f2fb400-7b67-11eb-861c-0d7c5debc8af.png"></a>
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
