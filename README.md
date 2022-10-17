@@ -1,12 +1,15 @@
-# Hey there, I'm Kaylee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there, I'm Kaylee! 👋
 
-[<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
-[<img title="YouTube Tutorials" height=35px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/YouTube_social_red_squircle_%282017%29.svg/1024px-YouTube_social_red_squircle_%282017%29.svg.png" />][YouTube]
-[<img title="DataCamp Learning" height=35px src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/244/original/Profile_Picture__3_.jpg" />][DataCamp]
-[<img title="Varsity Tutoring" height=35px src="https://i.vimeocdn.com/portrait/63434625_640x640" />][VarsityTutors]
+<p align="center">
+<a title="LinkedIn" target="_blank" rel="noopener" href="https://www.linkedin.com/in/KayleeDavisIN"><img width="71" alt="linkedin" src="https://user-images.githubusercontent.com/17025808/109658512-f6a7ba00-7b66-11eb-871b-818ba7cc1963.png"></a>
+<a title="YouTube" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1"><img width="65" alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/YouTube_social_dark_squircle_%282017%29.svg/120px-YouTube_social_dark_squircle_%282017%29.svg.png"></a>
+<a title="E-mail" target="_blank" rel="noopener" href="mailto:MailKayleeDavis@gmail.com?body=Hey%20Kaylee,%0D%0A%0D%0A"><img width="71" alt="email" src="https://user-images.githubusercontent.com/17025808/109658645-1f2fb400-7b67-11eb-861c-0d7c5debc8af.png"></a>
+</p>
 
 <!-- Not used 
 [<img title="StackOverflow" height=35px src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />][StackOverflow]
+[<img title="Linkedin" height=35px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][Linkedin]
+[<img title="YouTube" height=35px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/YouTube_social_red_squircle_%282017%29.svg/1024px-YouTube_social_red_squircle_%282017%29.svg.png" />][YouTube]
 -->
 
 ![-----------------------------------------------------](
@@ -107,6 +110,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <!-- Socials links -->
 [Linkedin]: https://www.linkedin.com/in/KayleeDavisIN
 [YouTube]: https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1
-[DataCamp]: https://www.datacamp.com/profile/KayleeDavis
-[VarsityTutors]: https://www.varsitytutors.com/tutors/878785440
 [StackOverflow]: https://stackoverflow.com/users/9367791
