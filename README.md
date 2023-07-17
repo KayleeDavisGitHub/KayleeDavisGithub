@@ -17,9 +17,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
 
-- 🌱 I’m currently working on learning ML with Python and lua for World of Warcraft AddOns!
+- 🌱 I’m currently working on learning ML with Python and Lua for World of Warcraft AddOns!
 - 🥅 2023 Goals: 
-  - [x] 🤖 Learn Machine Learning/AI Devlopment in Python
+  - [x] 🤖 Learn machine learning/AI development in Python
   - [x] 🧡 Tutor, and do more Data Science for Good.
   - [ ] 📈 Work on my portfolio of projects here on GitHub!
 - ⚡ Fun fact: I love learning foreign languages, я учу русский!
@@ -77,10 +77,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <details>
   <summary>MY STATS</summary>  
-
-<p align="center">
-  <a href="https://github.com/developernaimul/github-readme-activity-graph"><img alt="Kaylee Davis' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KayleeDavisGithub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a><br />
-</p>
 
 <p align="center">
   <a href="https://github.com/KayleeDavisGitHub"><img width="42%" src="https://github-readme-stats.vercel.app/api?username=KayleeDavisGitHub&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" /></a>
