@@ -17,12 +17,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
 
-- 🌱 I’m currently working on learning NLP with Python and ML deployment with AWS Sagemaker
+- 🌱 I’m currently working on learning ML with Python and lua for World of Warcraft AddOns!
 - 🥅 2023 Goals: 
-  - [ ] 🤖 Learn Machine Learning/AI Devlopment in Python
-  - [ ] 🧡 Tutor, and do more Data Science for Good.
+  - [x] 🤖 Learn Machine Learning/AI Devlopment in Python
+  - [x] 🧡 Tutor, and do more Data Science for Good.
   - [ ] 📈 Work on my portfolio of projects here on GitHub!
-- ⚡ Fun fact: I love foreign languages, я учу русский!
+- ⚡ Fun fact: I love learning foreign languages, я учу русский!
 
 ![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
