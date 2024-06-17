@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <details>
   <summary>MY SKILLS </summary>
 
-<div align="center"><i>Languages and Databases ordered by proficiency (highest to lowest)</i><div/>
+<div align="center"><i>Languages and Databases ordered by proficiency (Expert --> Core)</i><div/>
 
 
 <div align="center"><b>Languages</b><div/>
@@ -43,7 +43,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img alt="LaTeX" title="LaTeX" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Markdown" title="Markdown" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img alt="YAML" title="YAML" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" />
 <img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="LUA" title="LUA" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
 
 <div align="center"><b>Packages, Frameworks, and Libraries</b><div/>
 
@@ -53,6 +55,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img alt="stringr" title="stringr" width="35px" src="https://stringr.tidyverse.org/logo.png" />
 <img alt="numpy" title="numpy" width="35px" src="https://raw.githubusercontent.com/numpy/numpy/241c905c464a29c7b25858d57ea1a43131848530/branding/logo/logomark/numpylogoicon.svg" />
 <img alt="pandas" title="pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img alt="SciKitLearn" title="SciKitLearn" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />
 
 <div align="center"><b>Databases</b><div/>
 
@@ -67,12 +70,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img alt="RStudio" title="RStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img alt="TeXMaker" title="TeXMaker" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/TeXmaker_New_Logo.svg" />
 <img alt="Visual Studio Code" title="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="Jupyter Notebooks" title="Jupyter Notebooks" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
 
 <div align="center"><b>Tools</b><div/>
 
 <img alt="Tableau" title="Tableau" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
 <img alt="Power BI" title="Power BI" width="35px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />
-<img alt="Slack" title="Slack" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="GitHub" title="GitHub" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img alt="Jira" title="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
@@ -100,7 +103,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - ✅ [LaTeX Templates for new TeX Users](https://github.com/KayleeDavisGitHub/LaTeX-Templates)
 - ✅ [Krippendorff's Alpha Tutorial for Intercoder Reliability in R](https://github.com/KayleeDavisGitHub/Krippendorffs_Alpha_R)
 - ➡️ [Introduction to Data Science with R](https://github.com/KayleeDavisGitHub/Graduate_Methods_Handbook/blob/master/Methods.Handbook.pdf) - Book in Progress
-- More coming!
+- [![CurseForge](https://cf.way2muchnoise.eu/945317.svg)](https://legacy.curseforge.com/wow/addons/waryrspeak) World of Warcraft Player Text Mod
+- [![CurseForge](https://cf.way2muchnoise.eu/889794.svg)](https://legacy.curseforge.com/wow/addons/attsoundpackgnome) World of Warcraft ATT Addon Mod
+- More in progress!
 
 </details>
 
