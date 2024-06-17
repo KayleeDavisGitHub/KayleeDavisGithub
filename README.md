@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 **ABOUT ME**
 
-- 🌱 I’m currently working on learning ML with Python and Lua for World of Warcraft AddOns!
+- 🌱 I’m currently working on learning Lua for World of Warcraft AddOns!
 - 🥅 2023 Goals: 
   - [x] 🤖 Learn machine learning/AI development in Python
   - [x] 🧡 Tutor, and do more Data Science for Good.
