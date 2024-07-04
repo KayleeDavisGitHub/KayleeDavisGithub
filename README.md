@@ -103,6 +103,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - ✅ [LaTeX Templates for new TeX Users](https://github.com/KayleeDavisGitHub/LaTeX-Templates)
 - ✅ [Krippendorff's Alpha Tutorial for Intercoder Reliability in R](https://github.com/KayleeDavisGitHub/Krippendorffs_Alpha_R)
 - ➡️ [Introduction to Data Science with R](https://github.com/KayleeDavisGitHub/Graduate_Methods_Handbook/blob/master/Methods.Handbook.pdf) - Book in Progress
+- [![CurseForge](https://cf.way2muchnoise.eu/267285.svg)](https://www.curseforge.com/wow/addons/all-the-things) Documentation & Code Review for World of Warcraft's '[All The Things](https://github.com/DFortun81/AllTheThings/tree/master)" Addon.
 - [![CurseForge](https://cf.way2muchnoise.eu/945317.svg)](https://legacy.curseforge.com/wow/addons/waryrspeak) World of Warcraft Player Text Mod
 - [![CurseForge](https://cf.way2muchnoise.eu/889794.svg)](https://legacy.curseforge.com/wow/addons/attsoundpackgnome) World of Warcraft ATT Addon Mod
 - More in progress!
