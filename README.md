@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   - [x] 📈 Work on my portfolio of projects here on GitHub!
 - 🥅 2024 Goals: 
   - [ ] 🤖 Learn AI development in R/Python
-  - [ ] 🧡 Contribute more to the World of Warcraft community.
+  - [x] 🧡 Contribute more to the World of Warcraft community.
   - [ ] 📈 Work more with others on GitHub!
 - ⚡ Fun fact: I love learning foreign languages, я учу русский!
 
