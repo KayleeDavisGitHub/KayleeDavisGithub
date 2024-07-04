@@ -6,8 +6,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/KayleeDavisGitHub">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1">
-			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+  <!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1">
+			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
     <a style="margin-left: 10px;" target="_blank" href="mailto:MailKayleeDavis@gmail.com?body=Hey%20Kaylee,%0D%0A%0D%0A">
       <img width="50" height="50" src="https://img.icons8.com/doodle/344/newsletter.png" ></a>
  </div>
