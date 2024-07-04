@@ -1,15 +1,21 @@
 
-# Hey there, I'm Kaylee! 👋
+# 👋 Hey there, I'm Kaylee! 
 
  <div  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/KayleeDavisIN">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/KayleeDavisGitHub">
-		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1">
-			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
     <a style="margin-left: 10px;" target="_blank" href="mailto:MailKayleeDavis@gmail.com?body=Hey%20Kaylee,%0D%0A%0D%0A">
-      <img width="50" height="50" src="https://img.icons8.com/doodle/344/newsletter.png" ></a>
+      			<img width="100px"  src="https://img.icons8.com/clouds/100/apple-mail.png" ></a>
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/KayleeDavisIN">
+			<img width="100px" src="https://img.icons8.com/clouds/100/linkedin.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/KayleeDavisGitHub">
+		  	<img width="100px" src="https://img.icons8.com/clouds/100/github.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://discord.gg/9mmC7njsDn">
+			<img width="100px" src="https://img.icons8.com/clouds/100/discord-logo.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.twitch.tv/elfyr_tv">
+		  	<img width="100px" src="https://img.icons8.com/clouds/100/twitch.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://worldofwarcraft.blizzard.com/en-us/character/us/area-52/elfyr">
+		  	<img width="100px" src="https://img.icons8.com/clouds/100/battle-net.png"></a>
+	 <!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCPUL4sOelS0f3Q-u7Ld29Ew?sub_confirmation=1">
+			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
  </div>
 
 ![-----------------------------------------------------](
